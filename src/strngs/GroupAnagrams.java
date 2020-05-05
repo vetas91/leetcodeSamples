@@ -1,4 +1,4 @@
-package tasks;
+package strngs;
 
 import java.util.ArrayList;
 import java.util.HashMap;
